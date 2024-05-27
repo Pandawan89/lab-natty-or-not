@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Vídeo gerado com auxílio de IAs
 
 ## 📒 Descrição
 Projeto de criação de vídeo curto para redes sociais, com legenda, imagens e áudio, visando a divulgação de pontos turísticos de uma cidade.
@@ -17,5 +17,5 @@ Projeto de criação de vídeo curto para redes sociais, com legenda, imagens e 
 ## 🚀 Resultados
  [Vídeo Final](/exemplos/Tapiraí.mp4)
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Desafio de criar algo 'natty' com IA: Especialmente como iniciante, foi a adaptação do texto para uma entonação vocal mais natural.
